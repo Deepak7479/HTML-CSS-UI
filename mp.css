@@ -1,0 +1,124 @@
+#main{
+    border: 1px solid rgb(86, 86, 208);
+    height:750px;
+    width:1400px;
+    margin-left:50px
+    
+
+}
+#a{
+    border: 1px solid rgb(86, 86, 208);
+    height:550px;
+    width:1400px;
+    background-color: pink;
+    background-size: cover;
+    display:flex;
+}
+#ist,#nd{
+
+    height:530px;
+    width:700px;
+}
+#image{
+    border:solid 1px black;
+    width:400px;
+    height:400px;
+    margin-top:50px;
+    margin-left:150px;
+    background-image:url(hand-1549399_1280.jpg);
+    background-size: cover;
+    border-radius: 50% 50% 50% 50%;
+}
+#main2{
+    border: 1px solid black;
+    height:200px;
+    width:1400px;
+    background-color: black;
+    display:flex;
+}
+#a1{
+    
+    height:100px;
+    width:650px;
+    padding-top:30px;
+    margin-left:80px;
+}
+#a2{
+    
+    height: 100px;
+    width:600px;
+    margin-left:80px;
+}
+#a3{
+    
+    height: 50px;
+    width:650px;
+    margin-left:80px;
+    margin-top:-20px;  
+}
+.form{
+    display:flex;
+}
+#email{
+    height:30px;
+    width:250px;
+    border:3px solid black;
+    margin-top:20px;
+}
+#reg{
+    border:solid 3px black;
+    height:30px;
+    width:150px;
+    margin-top:21px;
+    margin-left:5px;
+    color:white;
+    background-color: black;
+    
+}
+#a4{
+    
+    height: 100px;px;
+    width:550px;
+    margin-left:80px;
+}
+
+#a5{
+    
+    height: 100px;px;
+    width:650px;
+    margin-left:80px;
+    color:white;
+}
+#b{
+    border: 1px solid black;
+    height:170px;
+    width:700px;
+    background-color:black;
+}
+#c{
+        border: 1px solid black;
+        height:170px;
+        width:700px;
+        background-color:black;
+}
+#b1,#c1{
+    color:white;
+    margin-top:40px;
+    margin-left:250px;
+}
+#b2,#b3,#b4,#b5{
+    color:white;
+    margin-top:10px;
+    margin-left:250px;
+}
+#c2,#c3,#c4,#c5{
+    color:white;
+    margin-top:10px;
+    margin-left:250px;
+}
+#c4{
+    color:black;
+    margin-top:10px;
+    margin-left:250px;
+}
+
